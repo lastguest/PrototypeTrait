@@ -21,7 +21,7 @@ trait Prototype {
 Tweet sized version :
 
 ```php
-trait Prototype{static$prototype=[];function __call($n,$p){$v=static::$prototype;return$v[$n]?call_user_func_array($v[$n],$p):$v();}}
+trait Prototype{static$prototype=[];function __call($n,$p){$v=static::$prototype;return$v[$n]?call_user_func_array($v[$n],$p):¥();}}
 ```
 
 ### How to use
