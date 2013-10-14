@@ -49,7 +49,7 @@ $test->hello(); // Hello!
 
 ## License (MIT)
 
-Copyright (c) 2012 Stefano Azzolini
+Copyright (c) 2013 Stefano Azzolini
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
